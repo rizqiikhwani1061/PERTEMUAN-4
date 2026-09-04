@@ -11,7 +11,7 @@
 <body>
 
     <header class="header">
-        <img src="profil1.jpeg" alt="Foto Budi" class="foto-profil">
+        <img src="profil1.jpeg" alt="Foto Rizqi" class="foto-profil">
         <h1>Rizqi Ikhwani</h1>
         <p>Mahasiswa Sistem Informasi — Universitas Tanjungpura</p>
     </header>
